@@ -23,6 +23,11 @@ Run your cointainer publishing the app port in order to access to it externally 
 
 > http://127.0.0.1:5001/
 
+It will appear something like this
+
+<img src="login-example.png"> 
+
+That's it! Use it as much as you want.
 <br>
 
 -----
