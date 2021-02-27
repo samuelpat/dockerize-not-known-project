@@ -31,7 +31,7 @@ That's it! Use it as much as you want.
 <br>
 
 -----
-You may have some comments, doubts or advises. Please, feel free to let me know about it. Your feedback is very helpful for me.
+You may have some comments, doubts or advises. Please, feel free to let me know about it. Your feedback is very helpful to me.
 
 If you desire to improve this little docker project or collaborate, fell free about it too.
 
